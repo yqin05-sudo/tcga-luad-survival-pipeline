@@ -5,8 +5,16 @@
   <a href="https://shiny.rstudio.com/">
     <img src="https://img.shields.io/badge/Shiny-App-orange?logo=rstudio&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/TCGA-LUAD-red" />
-  <a href="https://opensource.org/licenses/MIT">
+  <p align="center">
+  <a href="https://portal.gdc.cancer.gov/">
+    <img src="https://img.shields.io/badge/TCGA-Database-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAA0MXwoAAAAKUlEQVQoU2NkQAIYBaNgFBT8T2gSGhpi8B8gGsQGpgGmgaEAxgZQBAPnWCvtK1GNkAAAAASUVORK5CYII=" />
+  </a>
+  <a href="https://portal.gdc.cancer.gov/projects/TCGA-LUAD">
+    <img src="https://img.shields.io/badge/LUAD-Lung%20Adenocarcinoma-red" />
+  </a>
+</p>
+
+   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-green" />
   </a>
 </p>
