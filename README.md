@@ -1,11 +1,14 @@
-<h1 align="center">TCGA-LUAD Survival Modeling Pipeline</h1>
-<h3 align="center">Clinical Data Processing • Survival Modeling • Oncology Research • Shiny App</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/R-4.3.0-blue" />
-  <img src="https://img.shields.io/badge/Shiny-App-orange" />
+  <a href="https://www.r-project.org/">
+    <img src="https://img.shields.io/badge/R-4.3.0-276DC3?logo=r&logoColor=white" />
+  </a>
+  <a href="https://shiny.rstudio.com/">
+    <img src="https://img.shields.io/badge/Shiny-App-orange?logo=rstudio&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/TCGA-LUAD-red" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green" />
+  </a>
 </p>
 
 ---
