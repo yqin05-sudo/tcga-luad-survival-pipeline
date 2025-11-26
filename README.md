@@ -1,21 +1,18 @@
 <p align="center">
   <a href="https://www.r-project.org/">
-    <img src="https://img.shields.io/badge/R-4.3.0-276DC3?logo=r&logoColor=white" />
+    <img src="https://img.shields.io/badge/R-4.3.0-276DC3?logo=r&logoColor=white" style="height:20px;" />
   </a>
   <a href="https://shiny.rstudio.com/">
-    <img src="https://img.shields.io/badge/Shiny-App-orange?logo=rstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shiny-App-orange?logo=rstudio&logoColor=white" style="height:20px;" />
   </a>
-  <p align="center">
   <a href="https://portal.gdc.cancer.gov/">
-    <img src="https://img.shields.io/badge/TCGA-Database-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAOCAYAAAA0MXwoAAAAKUlEQVQoU2NkQAIYBaNgFBT8T2gSGhpi8B8gGsQGpgGmgaEAxgZQBAPnWCvtK1GNkAAAAASUVORK5CYII=" />
+    <img src="https://img.shields.io/badge/TCGA-Database-blue" style="height:20px;" />
   </a>
   <a href="https://portal.gdc.cancer.gov/projects/TCGA-LUAD">
-    <img src="https://img.shields.io/badge/LUAD-Lung%20Adenocarcinoma-red" />
+    <img src="https://img.shields.io/badge/LUAD-Lung%20Adenocarcinoma-red" style="height:20px;" />
   </a>
-</p>
-
-   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green" />
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-brightgreen" style="height:20px;" />
   </a>
 </p>
 
