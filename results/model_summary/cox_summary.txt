@@ -1,0 +1,33 @@
+Call:
+coxph(formula = Surv(time_month, event_binary) ~ age + gender + 
+    smoking + stage_group + surgery + chemo + radiation, data = luad)
+
+  n= 487, number of events= 171 
+
+                       coef exp(coef)  se(coef)      z Pr(>|z|)    
+age                0.016451  1.016587  0.008063  2.040  0.04131 *  
+gendermale         0.044608  1.045618  0.159975  0.279  0.78036    
+smokingEver       -0.063581  0.938398  0.223659 -0.284  0.77620    
+stage_groupII      0.978227  2.659737  0.204271  4.789 1.68e-06 ***
+stage_groupIII/IV  1.345146  3.838745  0.198765  6.768 1.31e-11 ***
+surgeryYes         0.120352  1.127894  0.203221  0.592  0.55370    
+chemoYes          -0.475981  0.621275  0.181884 -2.617  0.00887 ** 
+radiationYes       0.867022  2.379813  0.170526  5.084 3.69e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+                  exp(coef) exp(-coef) lower .95 upper .95
+age                  1.0166     0.9837    1.0006    1.0328
+gendermale           1.0456     0.9564    0.7642    1.4307
+smokingEver          0.9384     1.0656    0.6054    1.4547
+stage_groupII        2.6597     0.3760    1.7822    3.9693
+stage_groupIII/IV    3.8387     0.2605    2.6002    5.6673
+surgeryYes           1.1279     0.8866    0.7573    1.6798
+chemoYes             0.6213     1.6096    0.4350    0.8874
+radiationYes         2.3798     0.4202    1.7037    3.3243
+
+Concordance= 0.698  (se = 0.023 )
+Likelihood ratio test= 79.13  on 8 df,   p=7e-14
+Wald test            = 79.16  on 8 df,   p=7e-14
+Score (logrank) test = 85.04  on 8 df,   p=5e-15
+
