@@ -98,6 +98,7 @@ source("code/07_export_results.R")
 ---
 
 ## 📘 6. Documentation
+
 Full methods are described in:
 
 📄 **docs/pipeline.md**
@@ -112,6 +113,7 @@ Includes:
 ---
 
 ## 🔒 7. Data Source & Compliance
+
 This project uses publicly accessible TCGA-LUAD data obtained via the NCI Genomic Data Commons (GDC).
 
 - No PHI is included  
@@ -122,6 +124,7 @@ This project uses publicly accessible TCGA-LUAD data obtained via the NCI Genomi
 ---
 
 ## 📚 8. Citation
+
 If you use this pipeline, please cite:
 
 The Cancer Genome Atlas (TCGA)
@@ -130,6 +133,7 @@ NCI Genomic Data Commons (GDC)
 ---
 
 ## ✉️ 9. Contact
+
 For questions or collaboration opportunities:
 
 Yunlong Qin, PhD
@@ -139,4 +143,5 @@ Yunlong Qin, PhD
 ---
 
 ## ⭐ Star This Repo
+
 If you find this useful, please consider starring the repository!
