@@ -127,3 +127,14 @@ install.packages(c("tidyverse", "survival", "survminer", "jsonlite"))
 source("code/01_parse_json.R")
 source("code/02_clean_variables.R")
 source("code/07_generate_figures.R")
+
+## 9. Citation
+
+If using this pipeline, please cite the TCGA project and GDC.
+
+10. Contact
+
+For questions or collaborations:
+
+Yunlong Qin, PhD
+Email: bangong24@outlook.com / yqin05@gmail.com
