@@ -128,10 +128,4 @@ For questions or collaborations:
 📧 yqin05@gmail.com  
 
 ---
-
-## ⭐ Star This Repo
-
-If you find this useful, please consider starring the repository
-
----
 ", file = readme_path)
