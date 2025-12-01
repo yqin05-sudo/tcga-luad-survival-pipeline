@@ -24,6 +24,31 @@ This pipeline is suitable for:
 
 ## 📁 2. Project Structure
 
+tcga-luad-survival-pipeline/
+│
+├── data_raw/ # Raw data (GDC output)
+├── data_clean/ # Final cleaned analysis dataset (RDS/CSV)
+│ └── luad_data.rds
+│
+├── code/ # All scripts
+│ ├── 01_download.R
+│ ├── 02_cleaning.R
+│ ├── 03_variable_mapping.R
+│ ├── 04_survival_table.R
+│ ├── 05_cox_model.R
+│ ├── 06_generate_figures.R
+│ └── 07_export_results.R
+│
+├── results/
+│ ├── km_plots/ # KM images
+│ ├── forest_plots/ # Forest plot images
+│ └── model_summary/ # Model outputs (RDS + text)
+│
+├── docs/
+│ ├── pipeline.md # Full methods description
+│ └── variable_dictionary.md
+│
+└── README.md # ← YOU ARE HERE
 
 ---
 
@@ -70,5 +95,62 @@ Saved model object:
 ### **Install required R packages**
 ```r
 install.packages(c("survival", "survminer", "tidyverse"))
+
 source("code/06_generate_figures.R")
 source("code/07_export_results.R")
+
+---
+
+📘 6. Documentation
+
+Full methods are described in:
+
+📄 docs/pipeline.md
+Includes:
+
+Data sources
+
+Variable definitions
+
+Cleaning rules
+
+Model formulas
+
+Figure generation settings
+
+---
+
+🔒 7. Data Source & Compliance
+
+This project uses publicly accessible TCGA-LUAD data obtained via the NCI Genomic Data Commons (GDC).
+
+No PHI is included
+
+Data use follows GDC open-access policies
+
+Case identifiers are anonymized UUIDs
+
+All analysis is for research and education
+
+---
+
+📚 8. Citation
+
+If you use this pipeline, please cite:
+
+The Cancer Genome Atlas (TCGA)
+NCI Genomic Data Commons (GDC)
+
+---
+
+✉️ 9. Contact
+
+For questions or collaboration opportunities:
+
+Yunlong Qin, PhD
+📧 bangong24@outlook.com
+ / yqin05@gmail.com
+
+⭐ Star This Repo
+
+If you find this useful, please consider starring the repository!
