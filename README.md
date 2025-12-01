@@ -90,10 +90,12 @@ Saved model object:
 
 ### **Install required R packages**
 ```r
-install.packages(c("survival", "survminer", "tidyverse"))
+install. packages(c("survival", "survminer", "tidyverse"))
 
 source("code/06_generate_figures.R")
 source("code/07_export_results.R")
+
+---
 
 ## 📘 6. Documentation
 Full methods are described in:
@@ -107,6 +109,8 @@ Includes:
 - Model formulas  
 - Figure generation settings  
 
+---
+
 ## 🔒 7. Data Source & Compliance
 This project uses publicly accessible TCGA-LUAD data obtained via the NCI Genomic Data Commons (GDC).
 
@@ -115,11 +119,15 @@ This project uses publicly accessible TCGA-LUAD data obtained via the NCI Genomi
 - Follows GDC open-access policies  
 - All analysis is for research & education  
 
+---
+
 ## 📚 8. Citation
 If you use this pipeline, please cite:
 
 The Cancer Genome Atlas (TCGA)
 NCI Genomic Data Commons (GDC)
+
+---
 
 ## ✉️ 9. Contact
 For questions or collaboration opportunities:
@@ -127,6 +135,8 @@ For questions or collaboration opportunities:
 Yunlong Qin, PhD
 📧 bangong24@outlook.com
  / yqin05@gmail.com
+
+---
 
 ## ⭐ Star This Repo
 If you find this useful, please consider starring the repository!
