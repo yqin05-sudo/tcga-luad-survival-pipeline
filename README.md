@@ -35,7 +35,7 @@ This pipeline is suitable for:
 ---
 
 ### **Kaplan–Meier by Stage Group (I, II, III/IV)**
-![Stage KM](results/km_plots/stage_km_487.png)
+![Stage KM](results/km_plots/stage_km.png)
 
 ---
 
