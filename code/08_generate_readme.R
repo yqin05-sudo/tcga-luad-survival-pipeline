@@ -2,7 +2,7 @@
 # Auto-generate README.md  (Full Pipeline Documentation)
 # ============================================================
 
-readme_path <- "README.md" 
+readme_path <- "README.md"  
 
 cat("
 # 🚀 TCGA-LUAD Survival Analysis Pipeline
