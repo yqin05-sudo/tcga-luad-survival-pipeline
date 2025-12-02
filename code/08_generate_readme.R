@@ -33,7 +33,7 @@ Data used in this project were downloaded from the
 
 ## 3. Project Structure
 
-\`\`\`
+```
 tcga-luad-survival-pipeline/
 ├── data_raw/                     # Raw GDC JSON / TSV
 ├── data_clean/                   # Final cleaned dataset
@@ -61,7 +61,7 @@ tcga-luad-survival-pipeline/
 │
 └── docs/
     └── pipeline.md               # Full methods
-\`\`\`
+```
 
 ---
 
