@@ -1,3 +1,29 @@
+<p align="center">
+
+  <!-- TCGA Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TCGA_logo.png/600px-TCGA_logo.png" width="140" style="margin: 10px;" />
+
+  <!-- GDC Logo -->
+  <img src="https://gdc.cancer.gov/files/gdc-logo.png" width="150" style="margin: 10px;" />
+
+  <!-- LUAD Icon -->
+  <img src="https://raw.githubusercontent.com/cBioPortal/cbioportal/master/docs/images/logo_cbioportal.png" width="120" style="margin: 10px;" />
+
+  <!-- R Language -->
+  <img src="https://www.r-project.org/logo/Rlogo.png" width="90" style="margin: 10px;" />
+
+  <!-- MIT License badge -->
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" style="margin: 10px;" />
+
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/yunlongqin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" style="margin: 10px;" />
+  </a>
+
+</p>
+
+<hr>
+
 # 🚀 TCGA-LUAD Survival Analysis Pipeline
 
 This repository provides a complete, reproducible pipeline for processing  
