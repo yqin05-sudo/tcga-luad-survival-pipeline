@@ -1,4 +1,3 @@
-
 # 🚀 TCGA-LUAD Survival Analysis Pipeline
 
 This repository provides a complete, reproducible pipeline for processing  
@@ -29,12 +28,12 @@ Data used in this project were downloaded from the
 
 ```
 tcga-luad-survival-pipeline/
-├── data_raw/                     # Raw GDC JSON / TSV
-├── data_clean/                   # Final cleaned dataset
+├── data_raw/                    # Raw GDC JSON / TSV
+├── data_clean/                  # Final cleaned dataset
 │   ├── luad.data.rds
 │   ├── variable_dictionary.md
 │
-├── code/                         # All pipeline scripts
+├── code/                        # All pipeline scripts
 │   ├── 01_download.R
 │   ├── 02_cleaning.R
 │   ├── 03_variable_mapping.R
@@ -44,34 +43,34 @@ tcga-luad-survival-pipeline/
 │   └── 07_export_results.R
 │
 ├── results/
-│   ├── km_plots/                 # KM images
+│   ├── km_plots/                # KM images
 │   │   ├── overall_km.png
 │   │   └── stage_km.png
-│   ├── forest_plots/             # Cox forest plot
+│   ├── forest_plots/            # Cox forest plot
 │   │   └── cox_forest.png
-│   └── model_summary/            # RDS + text output
+│   └── model_summary/           # RDS + text output
 │       ├── cox_model.rds
 │       └── cox_summary.txt
 │
 └── docs/
-    └── pipeline.md               # Full methods
+    └── pipeline.md              # Full methods
 ```
 
 ---
 
 ## 4. Key Results
 
-### ⭐ Kaplan–Meier: Overall Survival  
+### ⭐ Kaplan–Meier: Overall Survival
 <img src="results/km_plots/overall_km.png" width="600" />
 
 ---
 
-### ⭐ Kaplan–Meier: Survival by Stage (I, II, III/IV)  
+### ⭐ Kaplan–Meier: Survival by Stage (I, II, III/IV)
 <img src="results/km_plots/stage_km.png" width="600" />
 
 ---
 
-### ⭐ Multivariable Cox Model — Forest Plot  
+### ⭐ Multivariable Cox Model — Forest Plot
 <img src="results/forest_plots/cox_forest.png" width="600" />
 
 ---
@@ -134,5 +133,4 @@ If using this pipeline, please cite:
 For questions or collaboration opportunities:
 
 **Yunlong Qin, PhD**  
-📧 bangong24@outlook.com  /  yqin05@gmail.com
-
+📧 bangong24@outlook.com / yqin05@gmail.com
