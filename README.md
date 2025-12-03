@@ -1,11 +1,15 @@
 <p align="center">
 
-[![TCGA](https://img.shields.io/badge/TCGA-Program-444444?style=for-the-badge)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
-[![LUAD](https://img.shields.io/badge/TCGA-LUAD-6f42c1?style=for-the-badge)](https://portal.gdc.cancer.gov/projects/TCGA-LUAD)
-[![NCI](https://img.shields.io/badge/NCI-National%20Cancer%20Institute-555555?style=for-the-badge)](https://www.cancer.gov/)
-[![GDC](https://img.shields.io/badge/NCI-GDC-005f73?style=for-the-badge)](https://portal.gdc.cancer.gov/)
-[![R](https://img.shields.io/badge/Made%20With-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+<!-- Primary Data Badges (Large) -->
+[![TCGA-LUAD](https://img.shields.io/badge/TCGA-LUAD-6f42c1?style=for-the-badge)](https://portal.gdc.cancer.gov/projects/TCGA-LUAD)
+[![GDC Portal](https://img.shields.io/badge/GDC-Data%20Portal-005f73?style=for-the-badge)](https://portal.gdc.cancer.gov/)
+
+<!-- Secondary Badges (Small) -->
+[![NCI](https://img.shields.io/badge/NCI-National%20Cancer%20Institute-b22222?style=flat-square)](https://www.cancer.gov/)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
+
+<!-- Contact Badge (Large) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yunlongqin/)
 
 </p>
