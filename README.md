@@ -1,23 +1,23 @@
 <p align="center">
 
-  <!-- TCGA Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TCGA_logo.png/600px-TCGA_logo.png" width="140" style="margin: 10px;" />
+  <!-- TCGA Icon -->
+  <img src="https://raw.githubusercontent.com/jhu-ep-coursera/fullstack-course4/master/examples/Lecture%2001/tcga_logo.png" height="80" style="margin: 10px;" />
 
-  <!-- GDC Logo -->
-  <img src="https://gdc.cancer.gov/files/gdc-logo.png" width="150" style="margin: 10px;" />
+  <!-- GDC Icon -->
+  <img src="https://raw.githubusercontent.com/jhu-ep-coursera/fullstack-course4/master/examples/Lecture%2001/gdc_logo.png" height="80" style="margin: 10px;" />
 
-  <!-- LUAD Icon -->
-  <img src="https://raw.githubusercontent.com/cBioPortal/cbioportal/master/docs/images/logo_cbioportal.png" width="120" style="margin: 10px;" />
+  <!-- Lung / Cancer Icon -->
+  <img src="https://raw.githubusercontent.com/google/material-design-icons/master/png/social/group/materialiconsoutlined/512dp/1x/baseline_group_black_24dp.png" height="80" style="margin: 10px;" />
 
-  <!-- R Language -->
-  <img src="https://www.r-project.org/logo/Rlogo.png" width="90" style="margin: 10px;" />
+  <!-- R Logo -->
+  <img src="https://www.r-project.org/logo/Rlogo.png" height="80" style="margin: 10px;" />
 
-  <!-- MIT License badge -->
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" style="margin: 10px;" />
+  <!-- MIT License -->
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" height="28" style="margin: 10px;" />
 
   <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/yunlongqin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" style="margin: 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="30" style="margin: 10px;" />
   </a>
 
 </p>
