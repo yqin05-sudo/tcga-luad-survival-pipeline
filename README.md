@@ -1,16 +1,22 @@
 <p align="center">
 
-<!-- Primary Data Badges (Large) -->
-[![TCGA-LUAD](https://img.shields.io/badge/TCGA-LUAD-6f42c1?style=for-the-badge)](https://portal.gdc.cancer.gov/projects/TCGA-LUAD)
-[![GDC Portal](https://img.shields.io/badge/GDC-Data%20Portal-005f73?style=for-the-badge)](https://portal.gdc.cancer.gov/)
+<!-- TCGA PROGRAM：深红色，圆角小图标 -->
+[![TCGA Program](https://img.shields.io/badge/TCGA-PROGRAM-8B0000?style=flat)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
 
-<!-- Secondary Badges (Small) -->
-[![NCI](https://img.shields.io/badge/NCI-National%20Cancer%20Institute-b22222?style=flat-square)](https://www.cancer.gov/)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
+<!-- LUAD：保持紫色 -->
+[![LUAD](https://img.shields.io/badge/LUAD-6f42c1?style=flat)](https://portal.gdc.cancer.gov/projects/TCGA-LUAD)
 
-<!-- Contact Badge (Large) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yunlongqin/)
+<!-- NCI GDC：NCI 灰，GDC 蓝色 -->
+[![NCI GDC](https://img.shields.io/badge/NCI-GDC-276DC3?style=flat)](https://portal.gdc.cancer.gov/)
+
+<!-- R：保持 Made with R 小图标风格（蓝色） -->
+[![Made with R](https://img.shields.io/badge/Made%20with-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
+
+<!-- MIT：绿色 -->
+[![MIT License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat)](https://opensource.org/licenses/MIT)
+
+<!-- LinkedIn Connect：用和 R 一样的蓝色，圆角小图标 -->
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-276DC3?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunlongqin/)
 
 </p>
 
