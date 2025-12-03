@@ -1,20 +1,12 @@
 <p align="center">
 
-  <!-- Project / Data Source Badges -->
-  <img src="https://img.shields.io/badge/TCGA-LUAD-6f42c1?style=for-the-badge" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/NCI-GDC-005f73?style=for-the-badge" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/Cancer%20Type-Lung%20Adenocarcinoma-orange?style=for-the-badge" style="margin: 4px;" />
-
-  <!-- R Logo（缩小） -->
-  <img src="https://www.r-project.org/logo/Rlogo.png" height="40" style="margin: 4px;" />
-
-  <!-- MIT License -->
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" style="margin: 4px;" />
-
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/yunlongqin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" style="margin: 4px;" />
-  </a>
+[![TCGA](https://img.shields.io/badge/TCGA-Program-444444?style=for-the-badge)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
+[![LUAD](https://img.shields.io/badge/TCGA-LUAD-6f42c1?style=for-the-badge)](https://portal.gdc.cancer.gov/projects/TCGA-LUAD)
+[![NCI](https://img.shields.io/badge/NCI-National%20Cancer%20Institute-555555?style=for-the-badge)](https://www.cancer.gov/)
+[![GDC](https://img.shields.io/badge/NCI-GDC-005f73?style=for-the-badge)](https://portal.gdc.cancer.gov/)
+[![R](https://img.shields.io/badge/Made%20With-R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yunlongqin/)
 
 </p>
 
