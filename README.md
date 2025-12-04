@@ -1,5 +1,3 @@
-<h1 align="center"> 🚀 TCGA-LUAD Survival Analysis Pipeline
-
 <h1 align="center">🚀 TCGA-LUAD Survival Analysis Pipeline</h1>
 
 <p align="center">
@@ -35,8 +33,6 @@
 </a>
 
 </p>
-
-<hr>
 
 ---
 
