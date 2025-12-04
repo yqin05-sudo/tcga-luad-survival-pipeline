@@ -1,20 +1,20 @@
-<h1 align="center">🚀 TCGA-LUAD Survival Analysis Pipeline</h1>
+<h1 align="center"> TCGA-LUAD Survival Analysis Pipeline</h1>
 
 <p align="center">
 
-<!-- TCGA PROGRAM — TCGA 官方红色 -->
+<!-- NIH | TCGA — TCGA 官方红色 -->
 <a href="https://www.cancer.gov/ccg/research/genome-sequencing/tcga">
 <img src="https://img.shields.io/badge/TCGA-PROGRAM-AA1E22?style=flat&logo=data:image/png;base64,iVBORw0KGgo=" />
 </a>
 
-<!-- LUAD — 保持紫色 -->
-<a href="https://portal.gdc.cancer.gov/projects/TCGA-LUAD">
-<img src="https://img.shields.io/badge/LUAD-6f42c1?style=flat" />
-</a>
-
-<!-- NCI + GDC — 蓝色 GDC，圆角 -->
+<!-- NCI | GDC — 蓝色 GDC，圆角 -->
 <a href="https://portal.gdc.cancer.gov/">
 <img src="https://img.shields.io/badge/NCI-GDC-276DC3?style=flat" />
+</a>
+
+<!-- TCGA | LUAD — 保持紫色 -->
+<a href="https://portal.gdc.cancer.gov/projects/TCGA-LUAD">
+<img src="https://img.shields.io/badge/LUAD-6f42c1?style=flat" />
 </a>
 
 <!-- R — 官方蓝 -->
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-276DC3?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
-</p>
+</p> 
 
 ---
 
