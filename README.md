@@ -28,9 +28,9 @@
 </a>
 
 <!-- LinkedIn — 同 R 的蓝色 -->
-<a href="https://www.linkedin.com/in/yunlongqin/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-276DC3?style=flat&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/yunlong-qin-m-d-ph-d-53132192">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
 
 </p> 
 
