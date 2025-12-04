@@ -4,7 +4,7 @@
 
 <!-- NIH | TCGA — TCGA 官方红色 -->
 <a href="https://www.cancer.gov/ccg/research/genome-sequencing/tcga">
-<img src="https://img.shields.io/badge/NIH-Program-2ea44f?style=flat&logo=data:image/png;base64,iVBORw0KGgo=" />
+<img src="https://img.shields.io/badge/NIH-Program-2ea44f?style=flat" />
 </a>
 
 <!-- NCI | GDC — 蓝色 GDC，圆角 -->
