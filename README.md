@@ -45,7 +45,7 @@ This repository provides a complete, reproducible pipeline for processing TCGA-L
 
 ---
 
-## 2. Data Source
+## 1. Data Source
 
 Data used in this project were downloaded from the  
 **NCI Genomic Data Commons (GDC)**:
@@ -58,7 +58,7 @@ Data used in this project were downloaded from the
 
 ---
 
-## 3. Project Structure
+## 2. Project Structure
 
 ```
 tcga-luad-survival-pipeline/
@@ -92,7 +92,7 @@ tcga-luad-survival-pipeline/
 
 ---
 
-## 4. Key Results
+## 3. Key Results
 
 ### ⭐ Kaplan–Meier: Overall Survival
 <img src="results/km_plots/overall_km.png" width="600" />
@@ -109,7 +109,7 @@ tcga-luad-survival-pipeline/
 
 ---
 
-## 5. 🚀 Quick Start
+## 4. 🚀 Quick Start
 
 Install required R packages:
 
@@ -126,7 +126,7 @@ source("code/07_export_results.R")
 
 ---
 
-## 6. 📘 Documentation
+## 5. 📘 Documentation
 
 Full methods are described in:  
 📄 **docs/pipeline.md**
@@ -141,7 +141,7 @@ Includes:
 
 ---
 
-## 7. 🔒 Data Source & Compliance
+## 6. 🔒 Data Source & Compliance
 
 This project uses publicly accessible TCGA-LUAD data obtained via the  
 NCI Genomic Data Commons (GDC).
@@ -153,7 +153,7 @@ NCI Genomic Data Commons (GDC).
 
 ---
 
-## 8. 📚 Citation
+## 7. 📚 Citation
 
 If using this pipeline, please cite:
 
@@ -162,7 +162,7 @@ If using this pipeline, please cite:
 
 ---
 
-## 9. ✉️ Contact
+## 8. ✉️ Contact
 
 For questions or collaboration opportunities:
 
