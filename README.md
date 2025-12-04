@@ -3,8 +3,10 @@
 <!-- TCGA PROGRAM：深红色，圆角小图标 -->
 [![TCGA Program](https://img.shields.io/badge/TCGA-PROGRAM-8B0000?style=flat)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
 
-<!-- TCGA | LUAD：保持紫色 -->
-[![LUAD](https://img.shields.io/badge/LUAD-6f42c1?style=flat)](https://portal.gdc.cancer.gov/projects/TCGA-LUAD)
+<!-- TCGA | LUAD -->
+<a href="https://portal.gdc.cancer.gov/projects/TCGA-LUAD">
+<img src="https://img.shields.io/badge/TCGA%20%7C%20LUAD-6f42c1?style=flat" />
+</a>
 
 <!-- NCI GDC：NCI 灰，GDC 蓝色 -->
 [![NCI GDC](https://img.shields.io/badge/NCI-GDC-276DC3?style=flat)](https://portal.gdc.cancer.gov/)
