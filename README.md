@@ -18,8 +18,8 @@
 </a>
 
 <!-- R — 官方蓝 -->
-<a href="https://www.r-project.org/">
-<img src="https://img.shields.io/badge/Made%20with-R-276DC3?style=flat&logo=r&logoColor=white" />
+<a href="https://www.linkedin.com/in/yunlong-qin-m-d-ph-d-53132192">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
 </a>
 
 <!-- MIT License — 绿色 -->
@@ -36,9 +36,7 @@
 
 ---
 
-This repository provides a complete, reproducible pipeline for processing  
-TCGA-LUAD clinical data, constructing survival datasets, and generating  
-publication-ready survival analysis outputs:
+This repository provides a complete, reproducible pipeline for processing TCGA-LUAD clinical data, constructing survival datasets, and generating publication-ready survival analysis outputs:
 
 - Kaplan–Meier curves (overall + by stage)
 - Multivariable Cox proportional hazards model
