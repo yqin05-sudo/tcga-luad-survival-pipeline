@@ -168,3 +168,8 @@ For questions or collaboration opportunities:
 
 **Yunlong Qin, PhD**  
 📧 bangong24@outlook.com / yqin05@gmail.com
+
+---
+## 9. 📄 License
+This project is released under the MIT License.  
+© 2025 Yunlong Qin. All rights reserved.
