@@ -1,3 +1,5 @@
+<h1 align="center"> 🚀 TCGA-LUAD Survival Analysis Pipeline>
+
 <p align="center">
 
 <!-- TCGA PROGRAM：深红色，圆角小图标 -->
@@ -23,8 +25,6 @@
 </p>
 
 <hr>
-
-# 🚀 TCGA-LUAD Survival Analysis Pipeline
 
 This repository provides a complete, reproducible pipeline for processing  
 TCGA-LUAD clinical data, constructing survival datasets, and generating  
