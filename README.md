@@ -2,32 +2,32 @@
 
 <p align="center">
 
-<!-- NIH | TCGA — TCGA 官方红色 -->
+<!-- NIH | TCGA -->
 <a href="https://www.cancer.gov/ccg/research/genome-sequencing/tcga">
 <img src="https://img.shields.io/badge/NIH-Program-2ea44f?style=flat" />
 </a>
 
-<!-- NCI | GDC — 蓝色 GDC，圆角 -->
+<!-- NCI | GDC -->
 <a href="https://portal.gdc.cancer.gov/">
 <img src="https://img.shields.io/badge/NCI-GDC-276DC3?style=flat" />
 </a>
 
-<!-- TCGA | LUAD — 保持紫色 -->
+<!-- TCGA | LUAD -->
 <a href="https://portal.gdc.cancer.gov/projects/TCGA-LUAD">
 <img src="https://img.shields.io/badge/TCGA-LUAD-6f42c1?style=flat" />
 </a>
 
-<!-- R — 官方蓝 -->
+<!-- R -->
 <a href="https://www.r-project.org/">
 <img src="https://img.shields.io/badge/Made%20with-R-276DC3?style=flat&logo=r&logoColor=white" />
 </a>
 
-<!-- MIT License — 绿色 -->
+<!-- MIT License -->
 <a href="https://opensource.org/licenses/MIT">
 <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=flat" />
 </a>
 
-<!-- LinkedIn — 同 R 的蓝色 -->
+<!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yunlong-qin-m-d-ph-d-53132192">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
