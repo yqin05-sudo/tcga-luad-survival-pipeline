@@ -172,4 +172,4 @@ For questions or collaboration opportunities:
 ---
 ## 9. 📄 License
 This project is released under the MIT License.  
-© 2025 Yunlong Qin. All rights reserved. 
+© 2025 Yunlong Qin. All rights reserved.
