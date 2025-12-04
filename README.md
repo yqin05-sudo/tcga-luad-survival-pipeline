@@ -1,21 +1,38 @@
 <h1 align="center"> 🚀 TCGA-LUAD Survival Analysis Pipeline
 
+<h1 align="center">🚀 TCGA-LUAD Survival Analysis Pipeline</h1>
+
 <p align="center">
 
-<!-- TCGA PROGRAM：深红色，圆角小图标 -->
-[![TCGA Program](https://img.shields.io/badge/TCGA-PROGRAM-8B0000?style=flat)](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)
-<!-- TCGA | LUAD -->
-<a href="https://portal.gdc.cancer.gov/projects/TCGA-LUAD">
-<img src="https://img.shields.io/badge/TCGA%20%7C%20LUAD-6f42c1?style=flat" />
+<!-- TCGA PROGRAM — TCGA 官方红色 -->
+<a href="https://www.cancer.gov/ccg/research/genome-sequencing/tcga">
+<img src="https://img.shields.io/badge/TCGA-PROGRAM-AA1E22?style=flat&logo=data:image/png;base64,iVBORw0KGgo=" />
 </a>
-<!-- NCI GDC：NCI 灰，GDC 蓝色 -->
-[![NCI GDC](https://img.shields.io/badge/NCI-GDC-276DC3?style=flat)](https://portal.gdc.cancer.gov/)
-<!-- R：保持 Made with R 小图标风格（蓝色） -->
-[![Made with R](https://img.shields.io/badge/Made%20with-R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
-<!-- MIT：绿色 -->
-[![MIT License](https://img.shields.io/badge/License-MIT-2ea44f?style=flat)](https://opensource.org/licenses/MIT)
-<!-- LinkedIn Connect：用和 R 一样的蓝色，圆角小图标 -->
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-276DC3?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunlongqin/)
+
+<!-- LUAD — 保持紫色 -->
+<a href="https://portal.gdc.cancer.gov/projects/TCGA-LUAD">
+<img src="https://img.shields.io/badge/LUAD-6f42c1?style=flat" />
+</a>
+
+<!-- NCI + GDC — 蓝色 GDC，圆角 -->
+<a href="https://portal.gdc.cancer.gov/">
+<img src="https://img.shields.io/badge/NCI-GDC-276DC3?style=flat" />
+</a>
+
+<!-- R — 官方蓝 -->
+<a href="https://www.r-project.org/">
+<img src="https://img.shields.io/badge/Made%20with-R-276DC3?style=flat&logo=r&logoColor=white" />
+</a>
+
+<!-- MIT License — 绿色 -->
+<a href="https://opensource.org/licenses/MIT">
+<img src="https://img.shields.io/badge/License-MIT-2ea44f?style=flat" />
+</a>
+
+<!-- LinkedIn — 同 R 的蓝色 -->
+<a href="https://www.linkedin.com/in/yunlongqin/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-276DC3?style=flat&logo=linkedin&logoColor=white" />
+</a>
 
 </p>
 
